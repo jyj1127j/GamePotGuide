@@ -1,6 +1,6 @@
 ### latest version: v2.1.0
 
-[Download](https://xyuditqzezxs1008973.cdn.ntruss.com/GamePotUnityPluginV2_20200326.unitypackage)
+[Download](https://xyuditqzezxs1008973.cdn.ntruss.com/GamePotUnityPluginV2_20200424.unitypackage)
 
 [UniTools Download](https://xyuditqzezxs1008973.cdn.ntruss.com/GamePotTools_Beta_20200326.unitypackage)
 <br/>
